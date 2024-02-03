@@ -1,6 +1,9 @@
 ## INSTALL
-Use install.sh for simplified use of the utility:
-$ sudo ./install.sh
+Use install.sh for simplified use of the utility:/
+$ sudo ./install.sh/
+
+otherwise use:
+./loggrep.py ...
 
 
 ## NAME
