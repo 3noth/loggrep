@@ -1,3 +1,7 @@
+## INSTALL
+Use install.sh for simplified use of the utility
+
+
 ## NAME
 loggrep - a utility for parsing log files with the ability to filter by keywords and identifiers.
 
