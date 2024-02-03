@@ -4,7 +4,6 @@ import argparse
 import re
 import os
 
-
 def parse_args():
     parser = argparse.ArgumentParser()
     parser.add_argument("input_file", help="Путь к входному файлу лога")
