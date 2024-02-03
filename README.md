@@ -22,11 +22,11 @@ logparse - a utility for parsing log files with the ability to filter by keyword
 
 ## EXAMPLES
 
-Example of usage for filtering a log by the keywords "error" and "warning":
-$ logparse logfile.log -K error warning
+Example of usage for filtering a log by the keywords "error" and "warning":\
+$ logparse logfile.log -K error warning\
 
-Example of usage with output saved to a file:
-$ logparse logfile.log -O output.log -K error
+Example of usage with output saved to a file:\
+$ logparse logfile.log -O output.log -K error\
 
-$ logparse logfile.log -K error warning -Id "user_id=\d+" -O output_folder
+$ logparse logfile.log -K error warning -Id "user_id=\d+" -O output_folder\
 $ logparse logfile.log -K error -Ld "\[\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2}\]" -O output.txt
