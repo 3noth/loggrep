@@ -1,8 +1,8 @@
 #!/bin/bash
 
 SCRIPT_NAME=$1
-PYTHON_SCRIPT_PATH=$(pwd)/src/$loggrep.py
-WRAPPER_SCRIPT=/usr/local/bin/$loggrep
+PYTHON_SCRIPT_PATH=$(pwd)/src/loggrep.py
+WRAPPER_SCRIPT=/usr/local/bin/loggrep
 
 chmod +x "$PYTHON_SCRIPT_PATH"
  
