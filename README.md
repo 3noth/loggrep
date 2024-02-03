@@ -1,5 +1,6 @@
 ## INSTALL
-Use install.sh for simplified use of the utility
+Use install.sh for simplified use of the utility:
+$ sudo ./install.sh
 
 
 ## NAME
